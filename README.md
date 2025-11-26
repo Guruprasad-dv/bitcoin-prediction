@@ -1,6 +1,8 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![Contributions](https://img.shields.io/badge/Contributions-welcome-orange)
+![Status](https://img.shields.io/badge/Project-Active-brightgreen)
+![ML](https://img.shields.io/badge/Machine%20Learning-Regression-yellow)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange)
+
  # Bitcoin Price Prediction using Multiple Linear Regression
 
 This project predicts **Bitcoin (BTC) Closing Price** based on historical market data using **Multiple Linear Regression (MLR)**.  
