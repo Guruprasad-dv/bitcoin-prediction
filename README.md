@@ -36,4 +36,4 @@ It is developed as a part of machine learning practice and demonstrates the end-
 The model shows a strong correlation between prediction and actual price during
 
 
-# Evaluation:0.78
+# Evaluation:0.75
