@@ -27,7 +27,9 @@ It is developed as a part of machine learning practice and demonstrates the end-
 2. Prepare and preprocess data  
 3. Train the Multiple Linear Regression model  
 4. Evaluate performance using metrics (MAE, RMSE, R²)  
-5. Compare actual vs predicted BTC prices 
+5. Compare actual vs predicted BTC prices
+
+6. # get full model- https://github.com/Guruprasad-dv/bitcoin-prediction/blob/main/model.ipynb
 
  # Results
 
