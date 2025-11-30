@@ -33,7 +33,7 @@ It is developed as a part of machine learning practice and demonstrates the end-
 
  # Results
 
-The model shows a strong correlation between prediction and actual price during
+The model shows a strong correlation between prediction and actual price.
 
 
-# Evaluation:0.75
+# Evaluation:R2-Score 0.75
